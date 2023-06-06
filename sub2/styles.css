@@ -1,0 +1,33 @@
+header {
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+#nav {
+    background-color: aqua;
+    height: 30px;
+    border-radius: 5px;
+}
+.nav__text--blue  {
+    margin-left: 30px;
+    color: blue;
+}
+.nav__text--green {
+    color: green;
+}
+.main__container  {
+    width: 180px;
+    height: 250px;
+    background-color: red;
+    display: inline-block;
+}
+.aside__navigation {
+    display: inline-block;
+    background-color: orange;
+    height: 250px;
+    width: 180px;
+}
+.footer__container {
+    background-color: palegreen;
+    height: 90px;
+}

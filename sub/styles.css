@@ -1,0 +1,26 @@
+/*selector de elemento*/
+h1  {
+    color: yellowgreen;
+}
+p {
+    color: darkslateblue;
+}
+span {
+    color: mediumseagreen;
+}
+span {
+    color: #2c0149;
+}
+#name {
+    color: rgb(105, 3, 223);
+}
+.mybox {
+    background-color: rgb(15, 66, 58);
+    width: 90px;
+    height: 90px;
+}
+.mytext {
+    font-size: 22px;
+    color: olivedrab;
+    font-weight: bold;
+}
