@@ -1,0 +1,38 @@
+.main__title {
+    color: darkorchid;
+    position: sticky;
+    top: 40px; 
+}
+
+.position__container > .position__box {
+    border: 1px solid black;
+    height: 90px;
+    width: 90px;
+    display: inline-block;
+}
+
+
+
+.position__box--green {
+    background-color: chartreuse;
+}
+.position__box--red {
+    background-color: crimson;
+}
+.position__box--blue {
+    background-color: cyan;
+}
+.position__box--hot {
+    background-color: hotpink;
+}
+
+.position__container > .position__box:hover {
+    background-color: royalblue;
+    color: coral;
+}
+.position__box--purple {
+background-color: blueviolet;
+position: fixed;
+right: 56px;
+bottom: 78px;
+}
